@@ -25,19 +25,33 @@
       margin: 20px auto;
       max-width: 800px;
       box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+      text-align: left;
     }
 
     .project-section img {
       max-width: 100%;
       height: auto;
       border-radius: 10px;
-      margin-top: 10px;
+      margin-bottom: 15px;
     }
 
     .social-icons {
       float: right;
       margin-top: -40px;
       margin-right: 10px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .bio-tweet {
+      margin-top: 30px;
+      font-style: italic;
+      background-color: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      border-left: 4px solid #1DA1F2;
     }
   </style>
 </head>
@@ -68,21 +82,12 @@
   </header>
 
   <h1>Welcome to My Tweet's Page</h1>
-  <p>Check out this tweet I liked on Twitter:</p>
-
-  <blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">
-      Data isn't just numbers, it's a story waiting to be told. #DataAnalytics
-      <a href="https://twitter.com/kaggle/status/1460323737035677698?ref_src=twsrc%5Etfw">Nov 15, 2021</a>
-    </p>
-    &mdash; Kaggle (@kaggle)
-  </blockquote>
-
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   <!-- Project Section: Accenture Bio Thread -->
   <div class="project-section">
+    <img src="images/biothread.png" alt="Bio Thread Smart Textile Shirt" />
     <h2>Accenture Smart Textile Project – Bio Thread</h2>
+
     <p><strong>Features:</strong></p>
     <ul>
       <li>Continuous tracking of health indicators</li>
@@ -90,24 +95,39 @@
       <li>Automatically maintains accurate health records</li>
       <li>Accessible for GPs and clinics</li>
     </ul>
+
     <p><strong>Materials:</strong></p>
     <ul>
       <li>EeonTex Conductive Fabric for e-textiles</li>
       <li>Silver-coated nylon threads for attaching sensors</li>
     </ul>
+
     <p><strong>Who it benefits:</strong></p>
     <ul>
       <li>Cardiovascular & respiratory patients</li>
-      <li>People with other or miscellaneous disorders</li>
+      <li>People with miscellaneous disorders</li>
     </ul>
+
     <p><strong>Advantages:</strong></p>
     <ul>
       <li>No social stigma, comfortable design</li>
-      <li>Usable by all age groups</li>
+      <li>Usable by all age groups (children, elderly)</li>
       <li>Real-time feedback with reports for professionals</li>
       <li>Travel-friendly and breathable</li>
     </ul>
-    <img src="images/biothread.png" alt="Bio Thread Smart Textile Shirt" />
+
+    <!-- Custom Tweet-Style Text -->
+    <div class="bio-tweet">
+      <p><strong>Tweet:</strong> Bio Thread - Smart textile shirt featuring:</p>
+      <p>
+        • Continuous health tracking<br />
+        • Comfortable, wearable design<br />
+        • Self-manageable with real-time feedback<br />
+        • Great for cardiovascular, respiratory, and other conditions<br />
+        • Travel-efficient and socially acceptable<br />
+        #SmartHealthcare #WearableTech #Innovation
+      </p>
+    </div>
   </div>
 
   <p><a href="index.html">Back to Home</a></p>
@@ -115,8 +135,7 @@
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous"
     src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0"
-    nonce="xyz">
-  </script>
+    nonce="xyz"></script>
 </body>
 
 </html>
