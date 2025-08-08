@@ -1,41 +1,34 @@
-# Accenture Smart Textile Project – Bio Thread
+# My Personal Portfolio
 
-A smart textile project focused on continuous health monitoring through comfortable, wearable fabric technology. This project blends innovation in e-textiles with practical healthcare solutions, designed to assist cardiovascular, respiratory, and other patients.
+A clean and responsive portfolio website built with HTML, CSS, and JavaScript. It includes sections for **Home**, **My Projects**, **About Me**, **Tweets**, and **Contact**—offering a polished presentation of my skills, projects, and personality.
 
 ---
 
 📸 Preview
 ![Accenture](https://github.com/user-attachments/assets/099b9776-c61e-4676-88da-f6630b30e4e0)
 
-## Features
 
-* Continuous tracking of key health indicators
-* Comfortable, non-intrusive wearable design
-* Automatic maintenance of accurate health records
-* Easily accessible data for GPs and clinics
+##  Built With
 
----
-
-## Materials Used
-
-* EeonTex conductive fabric for e-textiles
-* Silver-coated nylon threads for sensor integration
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
-## Benefits
+##  Live Demo
 
-* Eliminates social stigma with stylish, comfortable clothing
-* Suitable for all age groups, including children and the elderly
-* Provides real-time feedback and detailed reports for healthcare professionals
-* Travel-friendly, breathable, and durable for daily use
+Check out the live site here:  
+[**Browse My Portfolio**](https://sarika-sh.github.io/My-Personal-Portfolio/tweets.html)
 
 ---
 
-## Live Demo / More Info
+##  Pages & Features
 
-Explore the details and updates in the portfolio's **Tweets** section:
-[**View on My Portfolio**](https://sarika-sh.github.io/My-Personal-Portfolio/tweets.html)
-
----
+- **Home:** A warm welcome and navigation to key sections.
+- **Project:** Highlights ongoing or completed projects, including the Cross Country Elevation tool.
+- **About:** Your bio, skills, and background.
+- **Tweets:** A curated bio thread spotlighting the **Accenture Smart Textile** project:
+  - Highlights include real-time health tracking in a wearable design with breathable fabric, ideal for cardiovascular and respiratory users.
+- **Contact:** Reach out section for visitors to connect with you.
 
