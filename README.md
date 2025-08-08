@@ -4,6 +4,10 @@ A clean and responsive portfolio website built with HTML, CSS, and JavaScript. I
 
 ---
 
+📸 Preview
+![Accenture](https://github.com/user-attachments/assets/099b9776-c61e-4676-88da-f6630b30e4e0)
+
+
 ##  Built With
 
 - **HTML5**
