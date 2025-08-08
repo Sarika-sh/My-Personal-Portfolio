@@ -1,35 +1,41 @@
-# My Personal Portfolio
+# Accenture Smart Textile Project – Bio Thread
 
-A clean and responsive portfolio website built with HTML, CSS, and JavaScript. It includes sections for **Home**, **My Projects**, **About Me**, **Tweets**, and **Contact**—offering a polished presentation of my skills, projects, and personality.
+A smart textile project focused on continuous health monitoring through comfortable, wearable fabric technology. This project blends innovation in e-textiles with practical healthcare solutions, designed to assist cardiovascular, respiratory, and other patients.
 
 ---
 
 📸 Preview
 ![Accenture](https://github.com/user-attachments/assets/099b9776-c61e-4676-88da-f6630b30e4e0)
 
+## Features
 
-##  Built With
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-
----
-
-##  Live Demo
-
-Check out the live site here:  
-[**Browse My Portfolio**](https://sarika-sh.github.io/My-Personal-Portfolio/tweets.html)
+* Continuous tracking of key health indicators
+* Comfortable, non-intrusive wearable design
+* Automatic maintenance of accurate health records
+* Easily accessible data for GPs and clinics
 
 ---
 
-##  Pages & Features
+## Materials Used
 
-- **Home:** A warm welcome and navigation to key sections.
-- **Project:** Highlights ongoing or completed projects, including the Cross Country Elevation tool.
-- **About:** Your bio, skills, and background.
-- **Tweets:** A curated bio thread spotlighting the **Accenture Smart Textile** project:
-  - Highlights include real-time health tracking in a wearable design with breathable fabric, ideal for cardiovascular and respiratory users.
-- **Contact:** Reach out section for visitors to connect with you.
+* EeonTex conductive fabric for e-textiles
+* Silver-coated nylon threads for sensor integration
 
+---
+
+## Benefits
+
+* Eliminates social stigma with stylish, comfortable clothing
+* Suitable for all age groups, including children and the elderly
+* Provides real-time feedback and detailed reports for healthcare professionals
+* Travel-friendly, breathable, and durable for daily use
+
+---
+
+## Live Demo / More Info
+
+Explore the details and updates in the portfolio's **Tweets** section:
+[**View on My Portfolio**](https://sarika-sh.github.io/My-Personal-Portfolio/tweets.html)
+
+---
 
